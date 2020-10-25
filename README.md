@@ -1,2 +1,3 @@
-# english-for-desiners
+# English for Designers
+
 Course projects
