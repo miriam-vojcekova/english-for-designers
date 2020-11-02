@@ -6,11 +6,12 @@ The red dot plays the role of a restless dot in this concept, infecting the Boll
 Anyone who learns about Bollywood festivals will be endowed with an imaginary red dot that draws him into Indian culture and dances his senses.
 The goal of the Bollywood Festival is for people to relax, get to know a new culture, have fun and be drawn into the magical Indian world, 
 which enchants them with its otherness.
-![Alt text description.](img/filename.png)
 
 Bollywood evokes fun, joy, passion, love, mystery, laughter, humor, unexplored new culture.
 
 The logo was designed simply with a red dot as the main element in the design.
+
+<img alt = "Alt text goes." src= "Bollywood prezentácia6.jpg">
 
 The font that represents this design is called "Montserrat". 
 I used it because it has many cuts that can be used on various advertising media, but also on social networks, or in ordinary communication in e-mails.
