@@ -17,7 +17,7 @@ The logo was designed simply with a red dot as the main element in the design.
 The font that represents this design is called "Montserrat". 
 I used it because it has many cuts that can be used on various advertising media, but also on social networks, or in ordinary communication in e-mails.
 
-<img alt = "Alt text goes." src= "Bollywood prezentácia9.jpg">
+<img alt = "Alt text goes." src="Bollywood prezentácia9.jpg">
 
 The posters reflect the idea that Bollywood can be loved by really everyone. Whether it's an old pensioner who loves Indian soap operas, 
 a young woman who has traveled half of India, children who are fascinated by a different Indian culture, or even a dog who is happy 
