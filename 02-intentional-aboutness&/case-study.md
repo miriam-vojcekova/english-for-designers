@@ -23,17 +23,15 @@ The posters reflect the idea that Bollywood can be loved by really everyone. Whe
 a young woman who has traveled half of India, children who are fascinated by a different Indian culture, or even a dog who is happy 
 to see her master shake off in the evening with Indian movies.
 
-
 <img alt = "Alt text goes." src= "4.jpg">
 <img alt = "Alt text goes." src= "5.jpg">
-
 
 The design for the spot was conceived in such a way that ordinary people stand and wait for the subway, everyone is watching their own, until suddenly 
 Indian music is heard from the microphone and a red dot appears from the radio, which gradually starts to mark everyone. 
 Then people start dancing, having fun together with Indian music. They all run out of the metro and start dancing together, 
 the red dot dances the whole of Prague (people, animals, buildings (eg Dancing House), trams).
 
-<video controls src="bollywood - spot.mp4"></video>
+<video> <video controls src="bollywood - spot.mp4"> </video>
 
 T-shirts, tickets and other merch of this festival were designed with a simple and main element of the whole design, 
 our red dot and therefore the primary colors were red, black and white.
