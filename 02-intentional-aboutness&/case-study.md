@@ -1,4 +1,4 @@
-## Visual style for the Bollywood Film Festival
+# Visual style for the Bollywood Film Festival
 ### The idea of the whole project
 The visual style of the festival is based on a red dot, which symbolized married women in India, which actually represents the 18th year of the festival. 
 18 years symbolizes adulthood, marriage, building a career, starting a family. 
@@ -6,6 +6,7 @@ The red dot plays the role of a restless dot in this concept, infecting the Boll
 Anyone who learns about Bollywood festivals will be endowed with an imaginary red dot that draws him into Indian culture and dances his senses.
 The goal of the Bollywood Festival is for people to relax, get to know a new culture, have fun and be drawn into the magical Indian world, 
 which enchants them with its otherness.
+![Alt text description.](img/filename.png)
 
 Bollywood evokes fun, joy, passion, love, mystery, laughter, humor, unexplored new culture.
 
