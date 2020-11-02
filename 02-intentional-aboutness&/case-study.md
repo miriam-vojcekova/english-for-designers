@@ -33,7 +33,7 @@ Indian music is heard from the microphone and a red dot appears from the radio, 
 Then people start dancing, having fun together with Indian music. They all run out of the metro and start dancing together, 
 the red dot dances the whole of Prague (people, animals, buildings (eg Dancing House), trams).
 
-<video controls src="video/bollywood - spot.mp4"
+<video controls src= "video/bollywood - spot.mp4"
 
 T-shirts, tickets and other merch of this festival were designed with a simple and main element of the whole design, 
 our red dot and therefore the primary colors were red, black and white.
