@@ -17,31 +17,31 @@ The logo was designed simply with a red dot as the main element in the design.
 The font that represents this design is called "Montserrat". 
 I used it because it has many cuts that can be used on various advertising media, but also on social networks, or in ordinary communication in e-mails.
 
-<img alt = "Alt text goes." src="3.jpg">
+<img alt = "Alt text goes." src="bollywood-font.png">
 
 The posters reflect the idea that Bollywood can be loved by really everyone. Whether it's an old pensioner who loves Indian soap operas, 
 a young woman who has traveled half of India, children who are fascinated by a different Indian culture, or even a dog who is happy 
 to see her master shake off in the evening with Indian movies.
 
-<img alt = "Alt text goes." src= "4.jpg">
-<img alt = "Alt text goes." src= "5.jpg">
+<img alt = "Alt text goes." src= "bollywood-posters.png">
+<img alt = "Alt text goes." src= "bollywood-poster2.png">
 
 The design for the spot was conceived in such a way that ordinary people stand and wait for the subway, everyone is watching their own, until suddenly 
 Indian music is heard from the microphone and a red dot appears from the radio, which gradually starts to mark everyone. 
 Then people start dancing, having fun together with Indian music. They all run out of the metro and start dancing together, 
 the red dot dances the whole of Prague (people, animals, buildings (eg Dancing House), trams).
 
-<video> <video controls src="bollywood - spot.mp4"> </video>
+<video> <video controls src="bollywood-spot.mp4"> </video>
 
 T-shirts, tickets and other merch of this festival were designed with a simple and main element of the whole design, 
 our red dot and therefore the primary colors were red, black and white.
 
-<img alt = "Alt text goes." src= "6.jpg">
-<img alt = "Alt text goes." src= "7.jpg">
-<img alt = "Alt text goes." src= "9.jpg">
+<img alt = "Alt text goes." src= "bollywood-merch.png">
+<img alt = "Alt text goes." src= "bollywood-tshirt.png">
+<img alt = "Alt text goes." src= "bollywood-tickets.png">
 
 The social networks of this project are solved through filters in the Instagram application, which mark the user with a red dot and thus also activate the clothes, which will change into typical Indian ones. Users can share this on their profiles and exchange photos with their friends.
 
-<img alt = "Alt text goes." src= "8.jpg">
+<img alt = "Alt text goes." src= "bollywood-filters.jpg">
 
 The aim of designing this project was to introduce typical Czech people to the crazy Indian world, all with the help of a simple but strong element, namely a red dot.
