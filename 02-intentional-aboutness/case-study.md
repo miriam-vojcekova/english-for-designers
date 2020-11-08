@@ -11,8 +11,8 @@ Bollywood evokes fun, joy, passion, love, mystery, laughter, humor, unexplored n
 
 The logo was designed simply with a red dot as the main element in the design.
 
-<img alt = "Alt text goes." src= "1.jpg">
-<img alt = "Alt text goes." src= "2.jpg">
+<img alt = "Alt text goes." src= "bollywood-logo.png">
+<img alt = "Alt text goes." src= "bollywood-logo-bw.png">
 
 The font that represents this design is called "Montserrat". 
 I used it because it has many cuts that can be used on various advertising media, but also on social networks, or in ordinary communication in e-mails.
