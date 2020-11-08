@@ -24,7 +24,7 @@ a young woman who has traveled half of India, children who are fascinated by a d
 to see her master shake off in the evening with Indian movies.
 
 <img alt = "Alt text goes." src= "bollywood-posters.png">
-<img alt = "Alt text goes." src= "bollywood-poster2.png">
+<img alt = "Alt text goes." src= "bollywood-posters2.png">
 
 The design for the spot was conceived in such a way that ordinary people stand and wait for the subway, everyone is watching their own, until suddenly 
 Indian music is heard from the microphone and a red dot appears from the radio, which gradually starts to mark everyone. 
