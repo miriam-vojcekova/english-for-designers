@@ -1,0 +1,2 @@
+## Miriam Vojčeková
+My name is Miriam and I study graphic design. I'm an introvert in my projects and I like to work on everything myself. But I don't mind working in a team either. I would like to be freelance after school. In my projects, I try to bring everything to the last detail, I try to work with an open mind and full creativity. I try to create creative solutions to unsolvable problems. I try to go to everything one hundred percent, because if we don't do it properly, then we have to don't do it. Otherwise, I love traveling, partying with friends and running.
