@@ -11,20 +11,20 @@ Bollywood evokes fun, joy, passion, love, mystery, laughter, humor, unexplored n
 
 The logo was designed simply with a red dot as the main element in the design.
 
-![Alt text description of example.](img/bollywood-logo.png)>
-![Alt text description of example.](img/bollywood-logo-bw.png)>
+![Alt text description of example.](img/bollywood-logo.png)
+![Alt text description of example.](img/bollywood-logo-bw.png)
 
 The font that represents this design is called "Montserrat". 
 I used it because it has many cuts that can be used on various advertising media, but also on social networks, or in ordinary communication in e-mails.
 
-![Alt text description of example.](img/bollywood-font.png)>
+![Alt text description of example.](img/bollywood-font.png)
 
 The posters reflect the idea that Bollywood can be loved by really everyone. Whether it's an old pensioner who loves Indian soap operas, 
 a young woman who has traveled half of India, children who are fascinated by a different Indian culture, or even a dog who is happy 
 to see her master shake off in the evening with Indian movies.
 
-![Alt text description of example.](img/bollywood-posters.png)>
-![Alt text description of example.](img/bollywood-posters2.png)>
+![Alt text description of example.](img/bollywood-posters.png)
+![Alt text description of example.](img/bollywood-posters2.png)
 
 The design for the spot was conceived in such a way that ordinary people stand and wait for the subway, everyone is watching their own, until suddenly 
 Indian music is heard from the microphone and a red dot appears from the radio, which gradually starts to mark everyone. 
@@ -36,12 +36,12 @@ the red dot dances the whole of Prague (people, animals, buildings (eg Dancing H
 T-shirts, tickets and other merch of this festival were designed with a simple and main element of the whole design, 
 our red dot and therefore the primary colors were red, black and white.
 
-![Alt text description of example.](img/bollywood-merch.png)>
-![Alt text description of example.](img/bollywood-tshirt.png)>
-![Alt text description of example.](img/bollywood-tickets.png)>
+![Alt text description of example.](img/bollywood-merch.png)
+![Alt text description of example.](img/bollywood-tshirt.png)
+![Alt text description of example.](img/bollywood-tickets.png)
 
 The social networks of this project are solved through filters in the Instagram application, which mark the user with a red dot and thus also activate the clothes, which will change into typical Indian ones. Users can share this on their profiles and exchange photos with their friends.
 
-![Alt text description of example.](img/bollywood-filters.jpg)>
+![Alt text description of example.](img/bollywood-filters.jpg)
 
 The aim of designing this project was to introduce typical Czech people to the crazy Indian world, all with the help of a simple but strong element, namely a red dot.
