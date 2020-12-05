@@ -16,16 +16,16 @@ I'm inspired by Behance, Pinterest or Google. I'm using a color palette that som
 Download a font created by someone. I will just get inspiration from other designers and this will create my new design.
 
 ## Figure 6-1
-![Alt text description of example.](desatero1.png)
-![Alt text description of example.](internet-inspiration.png)
+![Alt text description of example.](img/desatero1.png)
+![Alt text description of example.](img/internet-inspiration.png)
 
 My first project in which I realize the power of copying.
 My Corona Challenge project is also partially copied. My main mascot of the whole campaign is a corona-virus with 
 eyes and a smile, but I copied the shape of this mascot from the Internet. Someone designed the visual of the virus this way, and I was inspired.
 
 ## Figure 6-2
-![Alt text description of example.](internet-inspiration2.png)
-![Alt text description of example.](internet-inspiration3.png)
-![Alt text description of example.](Bollywood-poster-1.png)
+![Alt text description of example.](img/internet-inspiration2.png)
+![Alt text description of example.](img/internet-inspiration3.png)
+![Alt text description of example.](img/Bollywood-poster-1.png)
 
 Another example of copying / inspiration is in my Bollywod Film Festival project, where I used two pictures and used them on a poster with some of my own elements.
