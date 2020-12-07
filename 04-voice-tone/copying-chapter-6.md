@@ -21,10 +21,11 @@ Download a font created by someone. I will just get inspiration from other desig
 My first project in which I realize the power of copying.
 My Corona Challenge project is also partially copied. My main mascot of the whole campaign is a corona-virus with 
 eyes and a smile, but I copied the shape of this mascot from the Internet. Someone designed the visual of the virus this way, and I was inspired.
+There are photos of the coronavirus on the Internet, and I just added eyes and a smile to this shape, making this mascot friendlier, happier, and thus creating a new look for this virus, which I declare as my design.
 
 ## Figure 6-2
 ![Alt text description of example.](img/internet-inspiration2.png)
 ![Alt text description of example.](img/internet-inspiration3.png)
 ![Alt text description of example.](img/Bollywood-poster-1.png)
 
-Another example of copying / inspiration is in my Bollywod Film Festival project, where I used two pictures and used them on a poster with some of my own elements.
+My second Bollywood Film Festival project differs in that it's more of combining images than copying. I took two photos, made a collage, added text, elements (red dot) and I created a new poster for the project's advertising campaign.
