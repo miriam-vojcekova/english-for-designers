@@ -6,7 +6,7 @@
 
 1. Genuine
 2. Original
-3. Educational, 
+3. Educational
 4. Friendly
 
 ## Tone
