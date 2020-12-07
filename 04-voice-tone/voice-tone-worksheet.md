@@ -16,7 +16,9 @@ I want to write clearly, and not be afraid to add a little humor into the text t
 3. Use humor for relief
 4. Be friendly
 5. Be careful when choosing certain words
+
 For example:
+
 When choosing the right words, we need to consider which target group we are talking about. 
 For example, we will choose simple words for children, not too long, and we will speak in a playful way. 
 For teenagers, we choose words that do not offend them and we speak carefully and try to be friendly. 
