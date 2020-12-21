@@ -1,4 +1,4 @@
-# HI, I'M MIRIAM
+# HI, I'M MIRIAM!
 A self-proclaimed graphic designer based in Prague with a full head of creativity, dreams and goals. ❤️
 
 ![Alt Text](https://media.giphy.com/media/DpQeW4lY9rEsG170kU/giphy.gif)
@@ -15,7 +15,7 @@ I edited videos for my friends and drew various characters on paper on my free t
 
 ![Alt Text](https://media.giphy.com/media/QAftV2ttJ0GFwCVXLu/giphy.gif)
 
-# APPLY FOR HIGH SCHOOL
+# HIGH SCHOOL APPLICATION
 When we had to decide where to apply for high school, I didn't hesitate to go to Secondary Vocational school, which offered study section - graphic of digital media.
 
 ![Alt Text](img/high-school.png)
