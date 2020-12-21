@@ -8,4 +8,4 @@
 - [Character & Description](character-description.md)
 
 ---
-[Home] (https://miriam-vojcekova.github.io/english-for-designers/)
+[Home](https://miriam-vojcekova.github.io/english-for-designers/)
