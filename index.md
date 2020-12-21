@@ -6,7 +6,7 @@
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](01-character-description/character-description.md)
-- [Voice and Tone](04-voice-tone/copying-chapter.md)
+- [Voice and Tone](04-voice-tone/copying-chapter-6.md)
 - [Presentation - storytelling](05-presentation-storytelling/presentation-2020-mvojcekova.md)
 
 ---
