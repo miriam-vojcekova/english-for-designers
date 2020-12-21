@@ -6,6 +6,8 @@
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](character-description.md)
+- [Voice and Tone](copying-chapter.md)
+- [Presentation - storytelling](presentation-2020-mvojcekova.md)
 
 ---
 [Home](https://miriam-vojcekova.github.io/english-for-designers/)
