@@ -8,6 +8,8 @@
 - [Character & Description](01-character-description/character-description.md)
 - [Voice and Tone](04-voice-tone/copying-chapter-6.md)
 - [Presentation - storytelling](05-presentation-storytelling/presentation-2020-mvojcekova.md)
+- [Semester takeaways](06-semester-takeaways/semester-takeaways.md)
+
 
 ---
 [Home](https://miriam-vojcekova.github.io/english-for-designers/)
