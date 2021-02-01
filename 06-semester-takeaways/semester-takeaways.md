@@ -7,4 +7,4 @@
 5. And of course, a lot of other things that I owe thank to our amazing Professor Justin! 
 For his patience, always willingness to help, helpfulness, and support throughout the semester. 
 
-![Alt Text](https://media.giphy.com/media/41Nk4kn1ynXtiJysww/giphy.gif)
+![Thank you.](https://media.giphy.com/media/41Nk4kn1ynXtiJysww/giphy.gif)
