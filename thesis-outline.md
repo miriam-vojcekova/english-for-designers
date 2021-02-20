@@ -3,7 +3,6 @@
 This project is about creating corporate identity design of fictitious start-up, which deals with grocery delivery, drugstore delivery, 
 flowers delivery and night alcohol delivery.
 
-<details>
 ![Mind Map](mind_map.png)
 
 ### Voice & Tone
