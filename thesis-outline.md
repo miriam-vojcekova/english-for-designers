@@ -5,11 +5,13 @@ flowers delivery and night alcohol delivery.
 
 <details>
   <summary>Mind Map</summary>
+
 ![Mind Map](mind_map.png)
+</details>
 
 ### Voice & Tone
-- **Voice:** Human, confident, educated, and inspirational.
-- **Tone:** Formal (academic), but friendly, enthusiastic, and conversational.
+- **Voice:** Instructive, confident, informative
+- **Tone:** Formal, friendly, pleasant
 
 ## Outline
 1. Fictitious startup, which deals with delivery in the Levice district in Slovakia
@@ -31,7 +33,7 @@ How to create a succesful startup?
 - Corporate Identity Design
 Colors, typeface
 - Visual style
-Logo design, Poster design, Design of delivery boxes and bags, bussiness card design, t-shirts for employees
+Logo design, Poster design, Design of delivery boxes and bags, bussiness card design, t-shirts for employees, app 
 
 ### References
 - [APA Style Reference Examples](http://https://apastyle.apa.org/style-grammar-guidelines/references/examples)
