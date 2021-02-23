@@ -36,6 +36,5 @@ Colors, typeface
 Logo design, Poster design, Design of delivery boxes and bags, bussiness card design, t-shirts for employees, app 
 
 ### References
-- [APA Style Reference Examples](http://https://apastyle.apa.org/style-grammar-guidelines/references/examples)
-- [Reference](http://)
-- [Reference](http://)
+- [Reference](https://www.rohlik.cz/)
+- [Reference](https://https://www.kosik.cz//)
