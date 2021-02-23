@@ -22,18 +22,21 @@ flowers delivery and night alcohol delivery.
 
 ### Notes
 - 
--
--
 
 ## Keywords
 - Delivery
-Delivery service
+- Delivery service
 - Startup company
-How to create a succesful startup?
+- How to create a succesful startup?
 - Corporate Identity Design
-Colors, typeface
+- Colors, typeface
 - Visual style
-Logo design, Poster design, Design of delivery boxes and bags, bussiness card design, t-shirts for employees, app 
+- Logo design
+- Poster design
+- Design of delivery boxes and bags
+- Bussiness card design
+- T-shirts for employees
+- App design
 
 ### References
 - [Reference](https://www.rohlik.cz/)
