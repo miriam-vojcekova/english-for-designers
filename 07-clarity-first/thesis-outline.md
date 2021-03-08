@@ -22,7 +22,12 @@ flowers delivery and night alcohol delivery.
 6. In my theoretical part of thesis I write about brand, brand identity, corporate identity, corporate design.
 
 ### Notes
-- 
+- Startup
+- Corporate Identity
+- Corporate Communications
+- Corporate Design
+- Visual style
+- Products
 
 ## Keywords
 - Delivery
