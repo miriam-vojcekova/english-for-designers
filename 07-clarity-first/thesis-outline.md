@@ -18,7 +18,8 @@ flowers delivery and night alcohol delivery.
 2. Food delivery, medicine delivery, flower delivery and night alcohol delivery
 3. Startup wants to be the best delivery service in the whole country
 4. This company will work for all target groups - teenagers, families with children and pensioners
-5. In this project, I will present the creation of a startup company that includes the entire visual style of the company
+5. In this project, I will present the creation of a startup company that includes the entire visual style of the company.
+6. In my theoretical part of thesis I write about brand, brand identity, corporate identity, corporate design.
 
 ### Notes
 - 
