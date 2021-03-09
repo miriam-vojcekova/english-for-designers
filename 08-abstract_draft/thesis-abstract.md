@@ -1,6 +1,6 @@
 # Corporate Identity Design of startup
 
-![Mind Map](thesis_abstract_hero.png)
+![Abstract hero](thesis_abstract_hero.png)
 
 ### Keywords
 brand, corporate identity, brand, brand creation, visual identity, logo creation, brand communication
