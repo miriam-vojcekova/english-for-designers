@@ -45,5 +45,5 @@ flowers delivery and night alcohol delivery.
 - App design
 
 ### References
-- [Reference](https://www.rohlik.cz/)
-- [Reference](https://https://www.kosik.cz//)
+- [Rohlik](https://www.rohlik.cz)
+- [Košík](https://www.kosik.cz)
