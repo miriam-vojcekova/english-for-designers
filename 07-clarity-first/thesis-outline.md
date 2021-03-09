@@ -1,4 +1,4 @@
-# CORPORATE IDENTITY DESIGN OF STARTUP
+# Corporate Identity Design of Startup
 
 This project is about creating corporate identity design of fictitious start-up, which deals with grocery delivery, drugstore delivery, 
 flowers delivery and night alcohol delivery.
