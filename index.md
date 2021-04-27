@@ -9,7 +9,9 @@
 - [Voice and Tone](04-voice-tone/copying-chapter-6.md)
 - [Presentation - storytelling](05-presentation-storytelling/presentation-2020-mvojcekova.md)
 - [Semester takeaways](06-semester-takeaways/semester-takeaways.md)
-
+- [Clarity First](06-clarity-first/thesis-outline.md)
+- [Abstract Draft](07-abstract_draft/thesis-abstract.md)
+- [Summary Details](08-summary-details/thesis-summary-details.md)
 
 ---
 [Home](https://miriam-vojcekova.github.io/english-for-designers/)
