@@ -23,8 +23,8 @@ This society will be created in order to simplify the lives of the people who li
 
 ![Logo.](./img/levmart_logo.png)
 
-In the theoretical part, the bachelor's thesis deals with the basics of marketing communication, corporate image, the brand as a visual element, c
-ommunication strategy and brand strategy according to experts who have been dealing with this topic for many years.
+In the theoretical part, the bachelor's thesis deals with the basics of marketing communication, corporate image, the brand as a visual element, communication 
+strategy and brand strategy according to experts who have been dealing with this topic for many years.
 
 ![Colors.](./img/levmart_colors.png)
 
