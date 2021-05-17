@@ -1,6 +1,6 @@
 ![Claim.](./img/levmart_claim.png)
 
-<a href="/pdfs/final_presentation.pdf">
+<a href="miriam-vojcekova.github.io/08-summary-details/final_presentation.pdf" target="_blank"> View PDF presentation </a>
 
 # Corporate Identity Design of startup
 
@@ -42,4 +42,4 @@ Both the theoretical and practical part of the bachelor's thesis gave me many in
 and helped me better understand the creation of corporate identity. I have gained knowledge of useful practices that help create a start-up brand that has a vision to become successful, unique and different in creative solutions from competing companies.
 
 ![Poster.](./img/levmart_poster.png)
-![T-shirt.](./img/levmart_tshirts.png)
+![T-shirt.](./img/levmart_tshirt.png)
