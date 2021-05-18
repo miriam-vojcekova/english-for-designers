@@ -1,6 +1,6 @@
 ![Claim.](./img/levmart_claim.png)
 
-<a href="miriam-vojcekova.github.io/08-summary-details/final_presentation.pdf" target="_blank"> View PDF presentation </a>
+[View PDF presentation](final_presentation.pdf)
 
 # Corporate Identity Design of startup
 
