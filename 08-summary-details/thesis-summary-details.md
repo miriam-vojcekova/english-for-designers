@@ -2,7 +2,7 @@
 
 [View PDF presentation](final_presentation.pdf)
 
-# Corporate Identity Design of startup
+# Corporate Identity Design of a Startup
 
 My bachelor's thesis deals with the creation of the corporate identity of a startup company 
 that provides delivery of grocery, medicine, drugstore, flowers and night delivery of alcohol.
